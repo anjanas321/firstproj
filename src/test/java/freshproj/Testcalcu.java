@@ -12,7 +12,7 @@ public class Testcalcu {
 		System.out.println("sum");
 		Integer x=15;
 		Integer y=15;
-		Integer expresult=32;
+		Integer expresult=30;
 	
 			 Integer result = Calcul.sum(x, y);
 
