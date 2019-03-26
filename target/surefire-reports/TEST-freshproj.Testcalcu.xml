@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="freshproj.Testcalcu" time="0.168" tests="1" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="freshproj.Testcalcu" time="0.229" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_121\bin"/>
-    <property name="sun.java.command" value="C:\Users\user\AppData\Local\Temp\surefire8801717387224122528\surefirebooter7358041174084989019.jar C:\Users\user\AppData\Local\Temp\surefire8801717387224122528 2019-03-26T13-24-59_605-jvmRun1 surefire2328022708017370687tmp surefire_0334264491604060730tmp"/>
+    <property name="sun.java.command" value="C:\Users\user\AppData\Local\Temp\surefire5246394451436586086\surefirebooter1206452254222100949.jar C:\Users\user\AppData\Local\Temp\surefire5246394451436586086 2019-03-26T13-41-46_507-jvmRun1 surefire8769822416577012513tmp surefire_05651636576010949382tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\user\Desktop\newproj\new\target\test-classes;C:\Users\user\Desktop\newproj\new\target\classes;C:\Users\user\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\user\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\user"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\user\AppData\Local\Temp\surefire8801717387224122528\surefirebooter7358041174084989019.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\user\AppData\Local\Temp\surefire5246394451436586086\surefirebooter1206452254222100949.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_121\lib\resources.jar;C:\Program Files\Java\jre1.8.0_121\lib\rt.jar;C:\Program Files\Java\jre1.8.0_121\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_121\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_121\lib\jce.jar;C:\Program Files\Java\jre1.8.0_121\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_121\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_121\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,11 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="test" classname="freshproj.Testcalcu" time="0.034">
-    <failure message="expected:&lt;32&gt; but was:&lt;30&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<32> but was:<30>
-	at freshproj.Testcalcu.test(Testcalcu.java:19)
-]]></failure>
-    <system-out><![CDATA[sum
-]]></system-out>
-  </testcase>
+  <testcase name="test" classname="freshproj.Testcalcu" time="0.04"/>
 </testsuite>

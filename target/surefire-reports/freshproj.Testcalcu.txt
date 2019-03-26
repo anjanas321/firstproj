@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: freshproj.Testcalcu
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.168 s <<< FAILURE! - in freshproj.Testcalcu
-test(freshproj.Testcalcu)  Time elapsed: 0.034 s  <<< FAILURE!
-java.lang.AssertionError: expected:<32> but was:<30>
-	at freshproj.Testcalcu.test(Testcalcu.java:19)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.229 s - in freshproj.Testcalcu
